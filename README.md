@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @StageSeparation
+- 👋 Hi, I’m Sebastian
+- 🧍‍♂️ I'm a male and my pronoun is He/him
 - 👀 I’m interested in Life science and coding
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on Vs code
